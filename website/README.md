@@ -1,7 +1,7 @@
 # hugohoenn.com
 
 Personal portfolio website built as a case study for the **Hurst Cyclic Trading System**.
-Tailored for the Publicis Sapient Software Engineer Intern application.
+
 
 ## Structure
 
